@@ -1,4 +1,7 @@
-# NAU-ECO-324-Environmental-Economics-Data
+# NAU ECO 324 Data [Fall 2023]
+Project Files for ECO 324 Fall 2023
+
+## Papers:
 
 ### ECO 324 - Environmental Economics [Fall 2023]:
 
